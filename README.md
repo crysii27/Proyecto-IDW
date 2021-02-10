@@ -2,7 +2,7 @@
 
  1. INTRODUCCION
  
-En algunas ciudades no muy grandes de colombia aun no hay cobertura o existencia de paginas de domicilios aunque sea solo de comida, esto nos ha llevado a pensar en una solucion para que las personas de estas regiones puedan acceder a este servicio que es comun hoy en dia en las grandes ciudades. En el siguiente anteproyecto presentaremos la idea de una pagina web que tine como funcion  servir de intermediario entre el cliente y los restaurantes, ademas prestar el servicio de domicilio; esta presentacion se hara atravez de una exposicion del tema principal, el problema en general y un diseño de bocetos de como se veria la interfaz grafica de la pagina web
+En algunas ciudades no muy grandes de colombia aun no hay cobertura o existencia de paginas de domicilios aunque sea solo de comida, esto nos ha llevado a pensar en una solucion para que las personas de estas regiones puedan acceder a este servicio que es comun hoy en dia en las grandes ciudades. En el siguiente anteproyecto presentaremos la idea de una pagina web que tiene como funcion servir de intermediario entre el cliente y los restaurantes, ademas prestar el servicio de domicilio; esta presentacion se hara atravez de una exposicion del tema principal, el problema en general y un diseño de bocetos de como se veria la interfaz grafica de la pagina web
 
  2. TEMA
  
@@ -14,6 +14,6 @@ Algunas regiones del pais no tienen acceso a plataformas digitales que suplan la
 
  4. MOCKUPS
 
-- Primer [MockUp](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-09%20at%2011.10.03%20PM.jpeg)
-- Segundo [MockUp](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-10%20at%204.51.53%20PM.jpeg)
-- Tercer [MockUp](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-10%20at%205.24.34%20PM.jpeg)
+- [Pagina principal](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-09%20at%2011.10.03%20PM.jpeg)
+- [Pagina de registro](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-10%20at%204.51.53%20PM.jpeg)
+- [Ejemplo menu](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-10%20at%205.24.34%20PM.jpeg)
