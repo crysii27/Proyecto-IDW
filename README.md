@@ -15,5 +15,5 @@ Algunas regiones del pais no tienen acceso a plataformas digitales que suplan la
  4. MOCKUPS
 
 - Primer [MockUp](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-09%20at%2011.10.03%20PM.jpeg)
-- Segundo [MockUp]()
+- Segundo [MockUp](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-10%20at%204.51.53%20PM.jpeg)
 - Tercer [MockUp]()
