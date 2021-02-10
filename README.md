@@ -16,4 +16,4 @@ Algunas regiones del pais no tienen acceso a plataformas digitales que suplan la
 
 - Primer [MockUp](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-09%20at%2011.10.03%20PM.jpeg)
 - Segundo [MockUp](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-10%20at%204.51.53%20PM.jpeg)
-- Tercer [MockUp]()
+- Tercer [MockUp](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-10%20at%205.24.34%20PM.jpeg)
