@@ -29,4 +29,8 @@ La última época ha traído consigo grandes soluciones tecnológicas, los aplic
 
 Al entrar a la página tenemos una primera vista en la que el usuario puede interactuar conocer su diseño y entrar a los otros sitios, la siguiente vista es de los restaurantes dónde encontramos el menú, la dirección y el resto de información acerca del lugar, luego los redirige a una página dónde se encuentra la información del domiciliario quién a su vez recibe los detalles del pedido por un bot en telegram.
 
+7. [MODELO DE NEGOCIO]
+
+
+
 
