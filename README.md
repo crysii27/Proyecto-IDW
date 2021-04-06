@@ -31,7 +31,7 @@ Al entrar a la página tenemos una primera vista en la que el usuario puede inte
 
 7. [MODELO DE NEGOCIO](https://github.com/crysii27/proyecto-IDW/blob/master/WhatsApp%20Image%202021-02-24%20at%206.09.02%20PM%20(1).jpeg)
 
-8. [PRIMER AVANCE DE LOS MOCKUPS EN HTML Y CSS]()
+8. [PRIMER AVANCE DE LOS MOCKUPS EN HTML Y CSS](https://github.com/crysii27/proyecto-IDW/blob/master/avance1_vistas.zip)
 
 
 
