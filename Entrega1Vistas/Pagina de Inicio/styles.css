@@ -1,0 +1,118 @@
+html {
+
+    box-sizing: border-box;
+    font-size: 2rem;
+  }
+
+  *
+  :before,
+  :after {
+      box-sizing: inherit;
+  }
+
+ 
+
+ul {
+    list-style: none;
+    margin: 0;
+
+}
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.subtitle {
+    font-size: 2rem;
+}
+
+.arrow  {
+    width: 160px;
+    height: 80px;     
+    
+    
+}
+
+
+.mg-left {
+    margin-left: 1rem;
+    
+    }
+
+.container{
+max-width: 1400px;
+margin: 0 auto;
+width: 100%;
+
+}
+
+.pagina {
+    display: grid;
+    grid-template-rows: auto 1fr 1fr;
+    height: 100vh;
+}
+
+.pagina  {
+  /*  border: 1px solid black;*/
+    }
+
+/header/
+.di-header{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 1 rem 0;
+}
+
+.di-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.di-menu__item {
+  margin-right: 5em;
+}
+
+.di-menu__link {
+    color: black;
+}
+.section_portada {
+ display: grid;
+ grid-template-rows: 90% 1fr;
+ padding-right: 1em;
+   /*background-image: url(PORTADA_opt\ \(1\).jpg);
+   background-position: center;
+   background-repeat: no-repeat;*/
+}
+
+.restaurantes_main {
+    display: grid;
+    grid-template-columns: 20% 1fr;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+}
+.restaurante2_main {
+    display: grid;
+    grid-template-columns: 20% 1fr;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.anuncio {
+    display: grid;
+    grid-template-columns: 20% 1fr 2fr;
+    padding-left: 1rem;
+
+}
+.Button_whatsApp {
+    size: 20%;
+}
+
+.footer {
+
+    width: 5cm;
+    height: 3cm;
+  }
